@@ -1,0 +1,89 @@
+﻿@model Product_Management_System.Models.Admin.Product
+
+@{
+    ViewData["Title"] = "DetailProduct";
+}
+
+<link href="~/css/product.css" rel="stylesheet" />
+
+<div class="container">
+    <div class="card">
+        <h1 class="text-center">Product Detail</h1>
+        <div class="card-body">
+            <div class="row">
+                <div class="col-sm-6">
+                    <dl>
+                        <dt>
+                            <label>Product Name</label>
+                        </dt>
+                        <dd>
+                            @Html.DisplayFor(model => model.Product_Name)
+                        </dd>
+                        <dt>
+                            <label>Product Description</label>
+                        </dt>
+                        <dd>
+                            @Html.DisplayFor(model => model.Product_Description)
+                        </dd>
+                        <dt>
+                            <label>Product Cover Image</label>
+                        </dt>
+                        <dt>
+                            @if (!string.IsNullOrEmpty(Model.Product_Cover_Image))
+                            {
+                                <img src="~/@Model.Product_Cover_Image" alt="Product Image" width="200" height="120" />
+                            }
+                        </dt>
+                    </dl>
+                </div>
+                <div class="col-sm-6">
+                    <dl>
+                        <dt>
+                            <label>Product Price</label>
+                        </dt>
+                        <dd>
+                            @Html.DisplayFor(model => model.Product_Price)
+                        </dd>
+                        <dt>
+                            <label>Product Quantity</label>
+                        </dt>
+                        <dd>
+                            @Html.DisplayFor(model => model.Product_Quantity)
+                        </dd>
+                        <dt>
+                            <label>Product Status</label>
+                        </dt>
+                        <dd>
+                            @if (Model.Product_Status == 0)
+                            {
+                                <label>Active</label>
+                            }
+                            else
+                            {
+                                <label>Deactive</label>
+                            }
+                        </dd>
+                        <div class="mt-5">
+                            <a asp-action="EditProduct" asp-controller="Product" asp-route-id="@Model.Product_Id" id="btnEdit" class="btn btnAddProduct text-white" title="Edit User">Edit</a>
+                            <a asp-action="Index" class="btn btn-secondary mx-2 btnBackProduct">Back to List</a>
+                        </div>
+                    </dl>
+                </div>
+                <div>
+                    <label>Product Images</label>
+                </div>
+
+                <div class="row">
+                    @if (!string.IsNullOrEmpty(Model.Product_Images))
+                    {
+                        string[] imagePaths = Model.Product_Images.Split(',');
+                        foreach (var imagePath in imagePaths)
+                        {
+                                <img src="~/@imagePath" alt="Product Image" style="width:200px;" />
+                        }
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

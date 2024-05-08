@@ -1,0 +1,62 @@
+﻿@model IEnumerable<Product_Management_System.Models.Admin.Order>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<link href="~/css/product.css" rel="stylesheet" />
+<h1>Orders List</h1>
+<section class="container mt-4">
+    <div class="card">
+        <div class="card-body">
+            <table class="table table-hover table-striped" id="productList">
+                <thead>
+                    <tr>
+                        <th>
+                            @Html.DisplayNameFor(model => model.User_Name)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Email)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Product_Name)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Product_Price)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Quantity)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Total_Price)
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.User_Name)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Email)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Product_Name)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Product_Price)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Quantity)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Total_Price)
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</section>

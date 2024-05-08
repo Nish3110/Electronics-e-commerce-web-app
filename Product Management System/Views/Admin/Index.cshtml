@@ -1,0 +1,78 @@
+﻿@model IEnumerable<Product_Management_System.Models.User>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<link href="~/css/admin.css" rel="stylesheet" />
+<h1>Customer List</h1>
+
+<section class="container mt-4">
+    <div class="card">
+        <div class="card-body">
+            <div class="add-user-btn mb-2">
+                <a asp-action="Create"><i class="fa fa-plus"></i> Create New</a>
+            </div>
+            <table class="table" id="userListTable">
+                <thead>
+                    <tr>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Firstname)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Lastname)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Birthdate)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Gender)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Email)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Phonenumber)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Password)
+                        </th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Firstname)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Lastname)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Birthdate)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Gender)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Email)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Phonenumber)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Password)
+                            </td>
+                            <td>
+                                <a asp-action="Edit" asp-controller="Admin" asp-route-id="@item.User_Id" id="btnEdit" class="btn bg-white text-primary" title="Edit User"><i class="fa fa-edit fw-bold"></i></a>
+                                <a asp-action="Detail" asp-controller="Admin" asp-route-id="@item.User_Id" id="btnView" class="btn bg-white" title="View User"><i class="fa fa-eye fw-bold"></i></a>
+                                <a href="#" onclick="deleteUser(@item.User_Id)" id="btnDelete" class="btn bg-white text-primary" title="Delete User"><i class="fa fa-trash fw-bold"></i></a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</section>

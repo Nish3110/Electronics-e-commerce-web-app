@@ -1,0 +1,1161 @@
+D:\Project\Product Managemetn System\Product Management System\Product Management System\obj\Debug\net8.0\Product Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Product Managemetn System\Product Management System\Product Management System\obj\Debug\net8.0\Product Management System.AssemblyInfoInputs.cache
+D:\Project\Product Managemetn System\Product Management System\Product Management System\obj\Debug\net8.0\Product Management System.AssemblyInfo.cs
+D:\Project\Product Managemetn System\Product Management System\Product Management System\obj\Debug\net8.0\Product Management System.csproj.CoreCompileInputs.cache
+D:\Project\Product Managemetn System\Product Management System\Product Management System\obj\Debug\net8.0\Product Management System.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\Product Managemetn System\Product Management System\Product Management System\obj\Debug\net8.0\Product Management System.RazorAssemblyInfo.cache
+D:\Project\Product Managemetn System\Product Management System\Product Management System\obj\Debug\net8.0\Product Management System.RazorAssemblyInfo.cs
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\appsettings.Development.json
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\appsettings.json
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\Product Management System.staticwebassets.runtime.json
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\Product Management System.exe
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\Product Management System.deps.json
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\Product Management System.runtimeconfig.json
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\Product Management System.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\Product Management System.pdb
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\Humanizer.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\Microsoft.Build.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\NuGet.Common.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\System.CodeDom.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\obj\Debug\net8.0\Product Management System.csproj.AssemblyReference.cache
+D:\Project\Product Managemetn System\Product Management System\Product Management System\obj\Debug\net8.0\staticwebassets.build.json
+D:\Project\Product Managemetn System\Product Management System\Product Management System\obj\Debug\net8.0\staticwebassets.development.json
+D:\Project\Product Managemetn System\Product Management System\Product Management System\obj\Debug\net8.0\staticwebassets\msbuild.Product Management System.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Project\Product Managemetn System\Product Management System\Product Management System\obj\Debug\net8.0\staticwebassets\msbuild.build.Product Management System.props
+D:\Project\Product Managemetn System\Product Management System\Product Management System\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Product Management System.props
+D:\Project\Product Managemetn System\Product Management System\Product Management System\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Product Management System.props
+D:\Project\Product Managemetn System\Product Management System\Product Management System\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Project\Product Managemetn System\Product Management System\Product Management System\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Project\Product Managemetn System\Product Management System\Product Management System\obj\Debug\net8.0\scopedcss\bundle\Product Management System.styles.css
+D:\Project\Product Managemetn System\Product Management System\Product Management System\obj\Debug\net8.0\scopedcss\projectbundle\Product Management System.bundle.scp.css
+D:\Project\Product Managemetn System\Product Management System\Product Management System\obj\Debug\net8.0\Product .4AD282DF.Up2Date
+D:\Project\Product Managemetn System\Product Management System\Product Management System\obj\Debug\net8.0\Product Management System.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\obj\Debug\net8.0\refint\Product Management System.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\obj\Debug\net8.0\Product Management System.pdb
+D:\Project\Product Managemetn System\Product Management System\Product Management System\obj\Debug\net8.0\Product Management System.genruntimeconfig.cache
+D:\Project\Product Managemetn System\Product Management System\Product Management System\obj\Debug\net8.0\ref\Product Management System.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\Dapper.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project\Product Managemetn System\Product Management System\Product Management System\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\obj\Debug\net8.0\Product Management System.csproj.AssemblyReference.cache
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\obj\Debug\net8.0\Product Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\obj\Debug\net8.0\Product Management System.AssemblyInfoInputs.cache
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\obj\Debug\net8.0\Product Management System.AssemblyInfo.cs
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\obj\Debug\net8.0\Product Management System.csproj.CoreCompileInputs.cache
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\obj\Debug\net8.0\Product Management System.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\obj\Debug\net8.0\Product Management System.RazorAssemblyInfo.cache
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\obj\Debug\net8.0\Product Management System.RazorAssemblyInfo.cs
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\obj\Debug\net8.0\Product Management System.sourcelink.json
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\appsettings.Development.json
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\appsettings.json
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\Product Management System.staticwebassets.runtime.json
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\Product Management System.exe
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\Product Management System.deps.json
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\Product Management System.runtimeconfig.json
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\Product Management System.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\Product Management System.pdb
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\Dapper.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\Humanizer.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\Microsoft.Build.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\NuGet.Common.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\System.CodeDom.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\obj\Debug\net8.0\staticwebassets.build.json
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\obj\Debug\net8.0\staticwebassets.development.json
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\obj\Debug\net8.0\staticwebassets\msbuild.Product Management System.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\obj\Debug\net8.0\staticwebassets\msbuild.build.Product Management System.props
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Product Management System.props
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Product Management System.props
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\obj\Debug\net8.0\scopedcss\bundle\Product Management System.styles.css
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\obj\Debug\net8.0\scopedcss\projectbundle\Product Management System.bundle.scp.css
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\obj\Debug\net8.0\Product .4AD282DF.Up2Date
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\obj\Debug\net8.0\Product Management System.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\obj\Debug\net8.0\refint\Product Management System.dll
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\obj\Debug\net8.0\Product Management System.pdb
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\obj\Debug\net8.0\Product Management System.genruntimeconfig.cache
+D:\Project\Product Managemetn System\Product Management\product_management_system\Product Management System\obj\Debug\net8.0\ref\Product Management System.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\appsettings.Development.json
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\appsettings.json
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\Product Management System.staticwebassets.runtime.json
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\Product Management System.exe
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\Product Management System.deps.json
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\Product Management System.runtimeconfig.json
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\Product Management System.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\Product Management System.pdb
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\Dapper.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\Humanizer.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\Microsoft.Build.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\NuGet.Common.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\System.CodeDom.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Freelance\product_management\Product Management System\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Freelance\product_management\Product Management System\obj\Debug\net8.0\Product Management System.csproj.AssemblyReference.cache
+D:\Freelance\product_management\Product Management System\obj\Debug\net8.0\Product Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Freelance\product_management\Product Management System\obj\Debug\net8.0\Product Management System.AssemblyInfoInputs.cache
+D:\Freelance\product_management\Product Management System\obj\Debug\net8.0\Product Management System.AssemblyInfo.cs
+D:\Freelance\product_management\Product Management System\obj\Debug\net8.0\Product Management System.csproj.CoreCompileInputs.cache
+D:\Freelance\product_management\Product Management System\obj\Debug\net8.0\Product Management System.MvcApplicationPartsAssemblyInfo.cache
+D:\Freelance\product_management\Product Management System\obj\Debug\net8.0\Product Management System.RazorAssemblyInfo.cache
+D:\Freelance\product_management\Product Management System\obj\Debug\net8.0\Product Management System.RazorAssemblyInfo.cs
+D:\Freelance\product_management\Product Management System\obj\Debug\net8.0\staticwebassets.build.json
+D:\Freelance\product_management\Product Management System\obj\Debug\net8.0\staticwebassets.development.json
+D:\Freelance\product_management\Product Management System\obj\Debug\net8.0\staticwebassets\msbuild.Product Management System.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Freelance\product_management\Product Management System\obj\Debug\net8.0\staticwebassets\msbuild.build.Product Management System.props
+D:\Freelance\product_management\Product Management System\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Product Management System.props
+D:\Freelance\product_management\Product Management System\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Product Management System.props
+D:\Freelance\product_management\Product Management System\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Freelance\product_management\Product Management System\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Freelance\product_management\Product Management System\obj\Debug\net8.0\scopedcss\bundle\Product Management System.styles.css
+D:\Freelance\product_management\Product Management System\obj\Debug\net8.0\scopedcss\projectbundle\Product Management System.bundle.scp.css
+D:\Freelance\product_management\Product Management System\obj\Debug\net8.0\Product .4AD282DF.Up2Date
+D:\Freelance\product_management\Product Management System\obj\Debug\net8.0\Product Management System.dll
+D:\Freelance\product_management\Product Management System\obj\Debug\net8.0\refint\Product Management System.dll
+D:\Freelance\product_management\Product Management System\obj\Debug\net8.0\Product Management System.pdb
+D:\Freelance\product_management\Product Management System\obj\Debug\net8.0\Product Management System.genruntimeconfig.cache
+D:\Freelance\product_management\Product Management System\obj\Debug\net8.0\ref\Product Management System.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\appsettings.json
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\Product Management System.staticwebassets.runtime.json
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\Product Management System.exe
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\Product Management System.deps.json
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\Product Management System.runtimeconfig.json
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\Product Management System.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\Product Management System.pdb
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\Dapper.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\obj\Debug\net8.0\Product Management System.csproj.AssemblyReference.cache
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\obj\Debug\net8.0\Product Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\obj\Debug\net8.0\Product Management System.AssemblyInfoInputs.cache
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\obj\Debug\net8.0\Product Management System.AssemblyInfo.cs
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\obj\Debug\net8.0\Product Management System.csproj.CoreCompileInputs.cache
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\obj\Debug\net8.0\Product Management System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\obj\Debug\net8.0\Product Management System.RazorAssemblyInfo.cache
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\obj\Debug\net8.0\Product Management System.RazorAssemblyInfo.cs
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\obj\Debug\net8.0\staticwebassets\msbuild.Product Management System.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\obj\Debug\net8.0\staticwebassets\msbuild.build.Product Management System.props
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Product Management System.props
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Product Management System.props
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\obj\Debug\net8.0\scopedcss\bundle\Product Management System.styles.css
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\obj\Debug\net8.0\scopedcss\projectbundle\Product Management System.bundle.scp.css
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\obj\Debug\net8.0\Product .4AD282DF.Up2Date
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\obj\Debug\net8.0\Product Management System.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\obj\Debug\net8.0\refint\Product Management System.dll
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\obj\Debug\net8.0\Product Management System.pdb
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\obj\Debug\net8.0\Product Management System.genruntimeconfig.cache
+C:\Users\Deepr\Downloads\product_management-main\product_management-main\Product Management System\obj\Debug\net8.0\ref\Product Management System.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\appsettings.Development.json
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\appsettings.json
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\Product Management System.staticwebassets.runtime.json
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\Product Management System.exe
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\Product Management System.deps.json
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\Product Management System.runtimeconfig.json
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\Product Management System.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\Product Management System.pdb
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\Dapper.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\Humanizer.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\Microsoft.Build.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\NuGet.Common.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\System.CodeDom.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\obj\Debug\net8.0\Product Management System.csproj.AssemblyReference.cache
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\obj\Debug\net8.0\Product Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\obj\Debug\net8.0\Product Management System.AssemblyInfoInputs.cache
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\obj\Debug\net8.0\Product Management System.AssemblyInfo.cs
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\obj\Debug\net8.0\Product Management System.csproj.CoreCompileInputs.cache
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\obj\Debug\net8.0\Product Management System.MvcApplicationPartsAssemblyInfo.cache
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\obj\Debug\net8.0\Product Management System.RazorAssemblyInfo.cache
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\obj\Debug\net8.0\Product Management System.RazorAssemblyInfo.cs
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\obj\Debug\net8.0\staticwebassets.build.json
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\obj\Debug\net8.0\staticwebassets.development.json
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\obj\Debug\net8.0\staticwebassets\msbuild.Product Management System.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\obj\Debug\net8.0\staticwebassets\msbuild.build.Product Management System.props
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Product Management System.props
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Product Management System.props
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\obj\Debug\net8.0\scopedcss\bundle\Product Management System.styles.css
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\obj\Debug\net8.0\scopedcss\projectbundle\Product Management System.bundle.scp.css
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\obj\Debug\net8.0\Product .4AD282DF.Up2Date
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\obj\Debug\net8.0\Product Management System.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\obj\Debug\net8.0\refint\Product Management System.dll
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\obj\Debug\net8.0\Product Management System.pdb
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\obj\Debug\net8.0\Product Management System.genruntimeconfig.cache
+D:\Web Development\Level 4\ASP.NET\Electronique_Emporium\Product Management System\obj\Debug\net8.0\ref\Product Management System.dll

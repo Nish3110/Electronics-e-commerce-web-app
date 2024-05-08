@@ -1,0 +1,93 @@
+﻿@model Product_Management_System.Models.User
+
+@{
+    ViewData["Title"] = "SignIn";
+}
+
+@if (!string.IsNullOrEmpty(ViewBag.error_message))
+{
+    <script>
+        $(document).ready(function () {
+            Swal.fire({
+                icon: 'error',
+                title: 'Error',
+                text: '@ViewBag.error_message'
+            });
+        });
+    </script>
+}
+
+@if (!string.IsNullOrEmpty(ViewBag.success_message))
+{
+    <script>
+        $(document).ready(function () {
+            Swal.fire({
+                icon: 'success',
+                title: 'Success',
+                text: '@ViewBag.success_message'
+            }).then((result) => {
+                if (result.isConfirmed) {
+                    window.location.href = "/Home"
+                }
+            });
+        });
+    </script>
+}
+
+<link href="~/css/user.css" rel="stylesheet" />
+
+
+<section class="background-radial-gradient overflow-hidden mt-5">
+    <div class="login-content container px-4 py-4 px-md-4 text-center text-lg-start my-5">
+        <div class="row gx-lg-5 align-items-center mb-2">
+            <div class="col-lg-6 mb-5 mb-lg-0" style="z-index: 10">
+                <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-login-form/draw2.webp"
+                     class="img-fluid" alt="Sample image">
+            </div>
+            <div class="col-lg-6 mb-5 mb-lg-0 position-relative">
+                <div id="radius-shape-1" class="position-absolute rounded-circle shadow-5-strong"></div>
+                <div id="radius-shape-2" class="position-absolute shadow-5-strong"></div>
+
+                <div class="card bg-glass">
+                    <div class="card-body px-4 py-5 px-md-5">
+                        <div class="d-flex justify-content-center">
+                            <h1 class="login-title">Sign In</h1>
+                        </div>
+                        <form asp-action="SignIn" class="mt-4">
+                            <div class="form-group">
+                                <label for="inputEmail">Email address</label>
+                                <input type="email" class="form-control" id="inputEmail" placeholder="Enter email" onkeypress="return event.charCode != 32" asp-for="Email">
+                                <span asp-validation-for="Email" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label for="inputPassword">Password</label>
+                                <input type="password" pattern="^(?!\s).*" required onkeypress="return event.charCode != 32" class="form-control" id="inputPassword" placeholder="Password" asp-for="Password">
+                                <span asp-validation-for="Password" class="text-danger"></span>
+                            </div>
+
+
+                            <div class="text-center text-lg-start mt-4 pt-2 d-flex flex-column">
+                                <div class="d-flex justify-content-center">
+                                    <button type="submit" class="login-button btn text-white btn-lg"
+                                            style="padding-left: 2.5rem; padding-right: 2.5rem;">
+                                        Sign In
+                                    </button>
+                                </div>
+                                <p class="small fw-bold mt-2 pt-1 mb-0 d-flex justify-content-center">
+                                    Don't have an account? &nbsp;<a asp-action="Signup" class="text-danger">Sign Up</a>
+                                </p>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

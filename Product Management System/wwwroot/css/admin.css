@@ -1,0 +1,192 @@
+﻿.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+}
+
+.card-title {
+    color: #333;
+}
+
+
+.layout-wrap .section-content-right .main-content .main-content-inner {
+    padding: 30px;
+    flex-grow: 1;
+}
+
+    .layout-wrap .section-content-right .main-content .main-content-inner .main-content-wrap {
+        width: 100%;
+        margin: auto;
+    }
+
+form.form-style-2 {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.wg-box {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    padding: 24px;
+    flex-direction: column;
+    gap: 24px;
+    border-radius: 12px;
+    background: var(--White);
+    box-shadow: 0px 4px 24px 2px rgba(20, 25, 38, 0.05);
+}
+
+form.form-style-2 > * .left {
+    width: 100%;
+    max-width: 368px;
+}
+
+.body-text {
+    color: var(--Body-Text);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-check-inline {
+    margin-right: 15px;
+}
+
+.form-control {
+    border-radius: 10px !important;
+    padding: 10px !important;
+}
+
+.control-label {
+    font-weight: 600;
+}
+
+.btnAddUser {
+    background-color: #0078d0;
+    border: 0;
+    border-radius: 56px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: system-ui,-apple-system,system-ui,"Segoe UI",Roboto,Ubuntu,"Helvetica Neue",sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    outline: 0;
+    padding: 16px 21px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    transition: all .3s;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    width: 25%;
+}
+
+    .btnAddUser:before {
+        background-color: initial;
+        background-image: linear-gradient(#fff 0, rgba(255, 255, 255, 0) 100%);
+        border-radius: 125px;
+        content: "";
+        height: 50%;
+        left: 4%;
+        opacity: .5;
+        position: absolute;
+        top: 0;
+        transition: all .3s;
+        width: 92%;
+    }
+
+    .btnAddUser:hover {
+        box-shadow: rgba(255, 255, 255, .2) 0 3px 15px inset, rgba(0, 0, 0, .1) 0 3px 5px, rgba(0, 0, 0, .1) 0 10px 13px;
+        transform: scale(1.05);
+        color: white !important;
+    }
+
+.btnBackUser {
+    border: 0;
+    border-radius: 56px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: system-ui,-apple-system,system-ui,"Segoe UI",Roboto,Ubuntu,"Helvetica Neue",sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    outline: 0;
+    padding: 16px 21px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    transition: all .3s;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    width: 25%;
+}
+
+    .btnBackUser:before {
+        background-color: initial;
+        background-image: linear-gradient(#fff 0, rgba(255, 255, 255, 0) 100%);
+        border-radius: 125px;
+        content: "";
+        height: 50%;
+        left: 4%;
+        opacity: .5;
+        position: absolute;
+        top: 0;
+        transition: all .3s;
+        width: 92%;
+    }
+
+    .btnBackUser:hover {
+        box-shadow: rgba(255, 255, 255, .2) 0 3px 15px inset, rgba(0, 0, 0, .1) 0 3px 5px, rgba(0, 0, 0, .1) 0 10px 13px;
+        transform: scale(1.05);
+    }
+
+.add-user-btn {
+    float: right;
+    border: 1px solid #307c8f;
+    padding: 5px 11px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 5px;
+}
+
+    .add-user-btn a, .add-user-btn a:hover {
+        text-decoration: none !important;
+    }
+
+    .add-user-btn:hover {
+        border: 1px solid #307c8f;
+        background-color: #307c8f;
+    }
+
+        .add-user-btn:hover a {
+            color: #fff;
+        }
+
+.fa {
+    font-size: 16px;
+}
+
+.fa-edit {
+    color: green !important;
+}
+
+.fa-view {
+    color: black !important;
+}
+
+.fa-trash {
+    color: red !important;
+}

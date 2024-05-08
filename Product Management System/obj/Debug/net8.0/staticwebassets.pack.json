@@ -1,0 +1,425 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Product Management System.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Product Management System.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\Database\\Final_SQLQuery.sql",
+      "PackagePath": "staticwebassets\\Database\\Final_SQLQuery.sql"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\Images\\03408d20fa734d2aa56cfe821c9f69f9.jpeg",
+      "PackagePath": "staticwebassets\\Images\\03408d20fa734d2aa56cfe821c9f69f9.jpeg"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\Images\\0c2617c2b0de40b297de0ef98f0e1162.jpeg",
+      "PackagePath": "staticwebassets\\Images\\0c2617c2b0de40b297de0ef98f0e1162.jpeg"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\Images\\1.png.jpg",
+      "PackagePath": "staticwebassets\\Images\\1.png.jpg"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\Images\\1548ef7479894c2aa88d9bf4ba1b8bbb.jpeg",
+      "PackagePath": "staticwebassets\\Images\\1548ef7479894c2aa88d9bf4ba1b8bbb.jpeg"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\Images\\1791fb1c31ef4b0ab5b9f706abe0d52c.jpeg",
+      "PackagePath": "staticwebassets\\Images\\1791fb1c31ef4b0ab5b9f706abe0d52c.jpeg"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\Images\\17f7368074cd482d9ad11234dff28a31.png",
+      "PackagePath": "staticwebassets\\Images\\17f7368074cd482d9ad11234dff28a31.png"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\Images\\2.png.jpg",
+      "PackagePath": "staticwebassets\\Images\\2.png.jpg"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\Images\\22bdbdb6af7c45b5964cda35b81c6f16.jpeg",
+      "PackagePath": "staticwebassets\\Images\\22bdbdb6af7c45b5964cda35b81c6f16.jpeg"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\Images\\30d6c11075e34545bf06b95a9144763c.png",
+      "PackagePath": "staticwebassets\\Images\\30d6c11075e34545bf06b95a9144763c.png"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\Images\\33f3230833164b5bb1b1de62e84c14af.png",
+      "PackagePath": "staticwebassets\\Images\\33f3230833164b5bb1b1de62e84c14af.png"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\Images\\37d42b83251446648e06e44f7b0706c4.jpeg",
+      "PackagePath": "staticwebassets\\Images\\37d42b83251446648e06e44f7b0706c4.jpeg"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\Images\\3ae07ec2a62444aabbfd5196f3819635.jpeg",
+      "PackagePath": "staticwebassets\\Images\\3ae07ec2a62444aabbfd5196f3819635.jpeg"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\Images\\475adc25401e4f33a04ae02557dd9604.jpeg",
+      "PackagePath": "staticwebassets\\Images\\475adc25401e4f33a04ae02557dd9604.jpeg"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\Images\\4865129ca38347ebab50dd473e2770af.jpeg",
+      "PackagePath": "staticwebassets\\Images\\4865129ca38347ebab50dd473e2770af.jpeg"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\Images\\4ebf72583f7e4924af379a1c4282ac30.jpeg",
+      "PackagePath": "staticwebassets\\Images\\4ebf72583f7e4924af379a1c4282ac30.jpeg"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\Images\\523456d7950c4c70b2a0a7f9749618c4.jpeg",
+      "PackagePath": "staticwebassets\\Images\\523456d7950c4c70b2a0a7f9749618c4.jpeg"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\Images\\5338684f67d345a4935ae61accde19b6.jpeg",
+      "PackagePath": "staticwebassets\\Images\\5338684f67d345a4935ae61accde19b6.jpeg"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\Images\\53f3e43a51a14ad5af921294090953f4.jpeg",
+      "PackagePath": "staticwebassets\\Images\\53f3e43a51a14ad5af921294090953f4.jpeg"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\Images\\6821f9f1b62d42e99bb4a06296fd0afb.png",
+      "PackagePath": "staticwebassets\\Images\\6821f9f1b62d42e99bb4a06296fd0afb.png"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\Images\\6f87e25548cd4bf193f88f9ef1ea5ecb.png",
+      "PackagePath": "staticwebassets\\Images\\6f87e25548cd4bf193f88f9ef1ea5ecb.png"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\Images\\7ead84df82ed40f490f679e32e5efa42.png",
+      "PackagePath": "staticwebassets\\Images\\7ead84df82ed40f490f679e32e5efa42.png"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\Images\\80cbeaeae11c4b23848f2514cbef339d.jpeg",
+      "PackagePath": "staticwebassets\\Images\\80cbeaeae11c4b23848f2514cbef339d.jpeg"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\Images\\875e1f53398f45398eda0de923e3b109.png",
+      "PackagePath": "staticwebassets\\Images\\875e1f53398f45398eda0de923e3b109.png"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\Images\\9fd0f1813e0f4cc8851acfa20a452379.jpeg",
+      "PackagePath": "staticwebassets\\Images\\9fd0f1813e0f4cc8851acfa20a452379.jpeg"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\Images\\a7130592fee242fea92c6cbbc49e7b05.jpeg",
+      "PackagePath": "staticwebassets\\Images\\a7130592fee242fea92c6cbbc49e7b05.jpeg"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\Images\\b0bd7d1cccd14943b2d83fe101dfec23.jpeg",
+      "PackagePath": "staticwebassets\\Images\\b0bd7d1cccd14943b2d83fe101dfec23.jpeg"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\Images\\bdbdc4c3c65240349144ba5a08eb9eae.jpeg",
+      "PackagePath": "staticwebassets\\Images\\bdbdc4c3c65240349144ba5a08eb9eae.jpeg"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\Images\\d73be8b9f8fb403ba2576cc1e9ab8f77.jpeg",
+      "PackagePath": "staticwebassets\\Images\\d73be8b9f8fb403ba2576cc1e9ab8f77.jpeg"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\Images\\d817360e850240539840255bdc727acd.jpeg",
+      "PackagePath": "staticwebassets\\Images\\d817360e850240539840255bdc727acd.jpeg"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\Images\\d93cbcef61334e20b83350cf96987ea3.jpeg",
+      "PackagePath": "staticwebassets\\Images\\d93cbcef61334e20b83350cf96987ea3.jpeg"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\Images\\ezgif.com-gif-maker.gif",
+      "PackagePath": "staticwebassets\\Images\\ezgif.com-gif-maker.gif"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\Images\\f52c3bb2977f42a9a62cb767a1ff9f64.jpeg",
+      "PackagePath": "staticwebassets\\Images\\f52c3bb2977f42a9a62cb767a1ff9f64.jpeg"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\Images\\f780e59f435c456bbb9a8ae7c8a9aa03.png",
+      "PackagePath": "staticwebassets\\Images\\f780e59f435c456bbb9a8ae7c8a9aa03.png"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\Images\\login.png",
+      "PackagePath": "staticwebassets\\Images\\login.png"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\Images\\logo1-removebg-preview.png",
+      "PackagePath": "staticwebassets\\Images\\logo1-removebg-preview.png"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\Images\\logout.png",
+      "PackagePath": "staticwebassets\\Images\\logout.png"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\css\\admin.css",
+      "PackagePath": "staticwebassets\\css\\admin.css"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\css\\product.css",
+      "PackagePath": "staticwebassets\\css\\product.css"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\css\\user.css",
+      "PackagePath": "staticwebassets\\css\\user.css"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Web Development\\Level 4\\ASP.NET\\Electronique_Emporium\\Product Management System\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Product Management System.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Product Management System.props",
+      "PackagePath": "build\\Product Management System.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Product Management System.props",
+      "PackagePath": "buildMultiTargeting\\Product Management System.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Product Management System.props",
+      "PackagePath": "buildTransitive\\Product Management System.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,22 @@
+﻿@model IEnumerable<Product_Management_System.Models.Admin.Product>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<link href="~/css/product.css" rel="stylesheet" />
+
+<div class="row">
+    @foreach (var product in Model)
+    {
+        <div class="col-md-3">
+            <div class="product">
+                <img src="@Url.Content(product.Product_Cover_Image)" class="img-fluid" alt="Product Image" />
+                <strong>@product.Product_Name</strong>
+                <p>@(product.Product_Description.Length > 20 ? product.Product_Description.Substring(0, 20) + "..." : product.Product_Description)</p>
+                <p>Price: $@product.Product_Price</p>
+                <button class="btn btn-primary m-2" onclick="viewProductDetails(@product.Product_Id)" type="button">View</button>
+            </div>
+        </div>
+    }
+</div>

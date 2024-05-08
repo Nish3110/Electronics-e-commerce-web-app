@@ -1,0 +1,174 @@
+﻿@model Product_Management_System.Models.Admin.Product
+
+@{
+    ViewData["Title"] = "EditProduct";
+}
+
+@if (!string.IsNullOrEmpty(ViewBag.error_message))
+{
+    <script>
+        $(document).ready(function () {
+            Swal.fire({
+                icon: 'error',
+                title: 'Error',
+                text: '@ViewBag.error_message'
+            });
+        });
+    </script>
+}
+else if (!string.IsNullOrEmpty(ViewBag.success_message))
+{
+    <script>
+        $(document).ready(function () {
+            Swal.fire({
+                icon: 'success',
+                title: 'Success',
+                text: '@ViewBag.success_message'
+            }).then((result) => {
+                if (result.isConfirmed) {
+                    window.location.href = "/Product/Index"
+                }
+            });
+        });
+    </script>
+}
+@{
+    string[] imagePaths = null;
+    string jsImagePaths = null;
+    if (Model != null)
+    {
+        if (!string.IsNullOrEmpty(Model.Product_Images))
+        {
+            imagePaths = Model.Product_Images.Split(',');
+            jsImagePaths = string.Join(",", imagePaths.Select(x => "'" + x + "'"));
+        }
+    }
+}
+<link href="~/css/product.css" rel="stylesheet" />
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title text-center addCardTitle">Edit Product</h5>
+                    <hr>
+                    @using (Html.BeginForm("EditProduct", "Product", FormMethod.Post, new { enctype = "multipart/form-data" }))
+                    {
+                        <form asp-action="EditProduct">
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                            <div class="form-group">
+                                <label asp-for="Product_Name" class="control-label"></label>
+                                <input asp-for="Product_Name" class="form-control" />
+                                <span asp-validation-for="Product_Name" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Product_Description" class="control-label"></label>
+                                <input asp-for="Product_Description" class="form-control" />
+                                <span asp-validation-for="Product_Description" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Product_Price" class="control-label"></label>
+                                <input asp-for="Product_Price" class="form-control" />
+                                <span asp-validation-for="Product_Price" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Product_Cover_Image" class="control-label"></label><br />
+                                @if (Model != null)
+                                {
+                                    @if (!string.IsNullOrEmpty(Model.Product_Cover_Image))
+                                    {
+                                        <input type="hidden" id="Product_Cover_Image" asp-for="Product_Cover_Image" class="control-label" value="@Model.Product_Cover_Image" />
+                                        <div class="image-container">
+                                            <img id="imagePreview" src="~/@Model.Product_Cover_Image" class="editImage" alt="Product Image" />
+                                        </div>
+                                    }
+                                }
+                                <input asp-for="Cover_Image" onchange="coverImageUpload(event)" class="form-control" />
+                                <span asp-validation-for="Product_Cover_Image" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Product_Images" class="control-label"></label><br />
+                                @if (Model != null)
+                                {
+                                    @if (!string.IsNullOrEmpty(Model.Product_Images) && imagePaths != null)
+                                    {
+                                        <input type="hidden" id="Product_Images" asp-for="Product_Images" class="control-label" value="@Model.Product_Images" />
+
+                                        int imagesCount = imagePaths.Length;
+                                        foreach (var imagePath in imagePaths)
+                                        {
+                                            <div class="image-container">
+                                                <img src="~/@imagePath" class="editImage" alt="Product Image" />
+                                                <button type="button" class="close-button" onclick="removeImage('@imagePath')">&times;</button>
+                                            </div>
+                                        }
+                                    }
+                                }
+                                <input asp-for="Images" class="form-control" />
+                                <span asp-validation-for="Images" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Product_Quantity" class="control-label"></label>
+                                <input asp-for="Product_Quantity" class="form-control" />
+                                <span asp-validation-for="Product_Quantity" class="text-danger"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Product_Status" class="control-label"></label>
+                                @* <input asp-for="Product_Status" class="form-control" /> *@
+                                <select asp-for="Product_Status" class="form-control">
+                                    <option value="0">Active</option>
+                                    <option value="1">InActive</option>
+                                </select>
+                                <span asp-validation-for="Product_Status" class="text-danger"></span>
+                            </div>
+                            <div class="text-center text-lg-start mt-4 pt-2 d-flex flex-column">
+                                <div class="d-flex justify-content-center">
+                                    <input type="submit" value="Save" class="btn btn-primary btnAddProduct" />
+                                    <button class="mx-2 btn btn-secondary btnBackProduct" asp-action="Index">Back to List</button>
+
+                                </div>
+                            </div>
+                        </form>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    var imagePaths = [@Html.Raw(jsImagePaths)];
+    function removeImage(imgPath) {
+
+        imagePaths.forEach((img, index) => {
+            if (img === imgPath) {
+                imagePaths.splice(index, 1);
+                var updatedProductImages = imagePaths.join(',');
+                $('#Product_Images').val(updatedProductImages);
+                $('.image-container:eq(' + index + ')').remove();
+            }
+        });
+    }
+
+    function coverImageUpload(event) {
+        const fileInput = event.target;
+        const imagePreview = document.getElementById('imagePreview');
+        if (event && event.target && event.target.files) {
+            var selectedFile = event.target.files[0];
+            const reader = new FileReader();
+            reader.onload = function (event) {
+                imagePreview.src = event.target.result;
+            };
+            reader.readAsDataURL(selectedFile);
+        } else {
+            console.error('Invalid event or file input.');
+        }
+    }
+</script>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

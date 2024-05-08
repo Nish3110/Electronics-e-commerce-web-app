@@ -1,0 +1,89 @@
+﻿@model Product_Management_System.Models.User
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<link href="~/css/admin.css" rel="stylesheet" />
+
+<div class="main-content">
+    <div class="main-content-inner">
+        <div class="main-content-wrap">
+            <div class="flex items-center flex-wrap justify-between gap20 mb-27">
+                <h3>Edit User</h3>
+            </div>
+            <!-- add-new-user -->
+            <form class="form-add-new-user form-style-2" asp-action="Edit">
+                <div class="wg-box">
+                    <div class="container">
+                        <div class="row">
+                            <div class="left col-sm">
+                                <h5 class="mb-4">Account</h5>
+                                <div class="body-text">Fill in the information below to Edit a new account</div>
+                            </div>
+                            <div class="right flex-grow col-sm">
+                                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                                <div class="form-group">
+                                    <label asp-for="Firstname" class="control-label"></label>
+                                    <input asp-for="Firstname" class="form-control" placeholder="Enter Firstname" />
+                                    <span asp-validation-for="Firstname" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="Lastname" class="control-label"></label>
+                                    <input asp-for="Lastname" class="form-control" placeholder="Enter Lastname" />
+                                    <span asp-validation-for="Lastname" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="Birthdate" class="control-label"></label>
+                                    <input asp-for="Birthdate" class="form-control" placeholder="Enter BIrthdate" />
+                                    <span asp-validation-for="Birthdate" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label class="control-label">Gender</label><br />
+                                    <div class="form-check form-check-inline">
+                                        <input class="form-check-input" type="radio" asp-for="Gender" value="1" id="male" required>
+                                        <label class="form-check-label" for="male">Male</label>
+                                    </div>
+                                    <div class="form-check form-check-inline">
+                                        <input class="form-check-input" type="radio" asp-for="Gender" value="0" id="female" required>
+                                        <label class="form-check-label" for="female">Female</label>
+                                    </div>
+                                    <div class="form-check form-check-inline">
+                                        <input class="form-check-input" type="radio" asp-for="Gender" value="2" id="other" required>
+                                        <label class="form-check-label" for="other">Other</label>
+                                    </div><br />
+                                    <span asp-validation-for="Gender" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="Email" class="control-label"></label>
+                                    <input asp-for="Email" class="form-control" placeholder="Enter Email" />
+                                    <span asp-validation-for="Email" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="Phonenumber" class="control-label"></label>
+                                    <input asp-for="Phonenumber" class="form-control" placeholder="Enter Phonenumber" />
+                                    <span asp-validation-for="Phonenumber" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="Password" class="control-label"></label>
+                                    <input asp-for="Password" class="form-control" placeholder="Enter Password" />
+                                    <span asp-validation-for="Password" class="text-danger"></span>
+                                </div>
+                                <div class="text-center text-lg-start mt-4 pt-2 d-flex flex-column">
+                                    <div class="d-flex justify-content-center">
+                                        <input type="submit" value="Save" class="btn btnAddUser" />
+                                        <a class="mx-3 btn btn-secondary btnBackUser" asp-action="Index">Back to List</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

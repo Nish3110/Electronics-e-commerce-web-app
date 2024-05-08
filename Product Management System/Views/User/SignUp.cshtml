@@ -1,0 +1,125 @@
+﻿@model Product_Management_System.Models.User
+
+@{
+    ViewData["Title"] = "SignUp";
+}
+
+@if (!string.IsNullOrEmpty(ViewBag.error_message))
+{
+    <script>
+        $(document).ready(function () {
+            Swal.fire({
+                icon: 'error',
+                title: 'Error',
+                text: '@ViewBag.error_message'
+            });
+        });
+    </script>
+}
+
+@if (!string.IsNullOrEmpty(ViewBag.success_message))
+{
+    <script>
+        $(document).ready(function () {
+            Swal.fire({
+                icon: 'success',
+                title: 'Success',
+                text: '@ViewBag.success_message'
+            }).then((result) => {
+                if (result.isConfirmed) {
+                    window.location.href = "SignIn"
+                }
+            });
+        });
+    </script>
+}
+
+<link href="~/css/user.css" rel="stylesheet" />
+<div>
+    <section class="background-radial-gradient overflow-hidden mt-5">
+        <div class="signup-content container px-4 py-4 px-md-4 text-center text-lg-start my-5">
+            <div class="row gx-lg-5 align-items-center mb-2">
+                <div class="col-lg-6 mb-5 mb-lg-0" style="z-index: 10">
+                    <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-login-form/draw2.webp"
+                         class="img-fluid" alt="Sample image">
+                </div>
+
+                <div class="col-lg-6 mb-5 mb-lg-0 position-relative">
+                    <div id="radius-shape-1" class="position-absolute rounded-circle shadow-5-strong"></div>
+                    <div id="radius-shape-2" class="position-absolute shadow-5-strong"></div>
+
+                    <div class="card bg-glass">
+                        <div class="card-body px-4 py-5 px-md-5">
+                            <div class="d-flex justify-content-center">
+                                <h1 class="signup-title">Sign Up</h1>
+                            </div>
+                            <form asp-action="SignUp" class="needs-validation" novalidate>
+                                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                                <div class="form-group">
+                                    <label asp-for="Firstname" class="control-label">First Name</label>
+                                    <input asp-for="Firstname" class="form-control" required placeholder="Enter Firstname" />
+                                    <span asp-validation-for="Firstname" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="Lastname" class="control-label">Last Name</label>
+                                    <input asp-for="Lastname" class="form-control" required placeholder="Enter Lastname" />
+                                    <span asp-validation-for="Lastname" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="Birthdate" class="control-label">Birthdate</label>
+                                    <input asp-for="Birthdate" class="form-control" required placeholder="Enter Birthdate" />
+                                    <span asp-validation-for="Birthdate" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label class="control-label">Gender</label><br />
+                                    <div class="form-check form-check-inline">
+                                        <input class="form-check-input" type="radio" asp-for="Gender" value="1" id="male" required>
+                                        <label class="form-check-label" for="male">Male</label>
+                                    </div>
+                                    <div class="form-check form-check-inline">
+                                        <input class="form-check-input" type="radio" asp-for="Gender" value="0" id="female" required>
+                                        <label class="form-check-label" for="female">Female</label>
+                                    </div>
+                                    <div class="form-check form-check-inline">
+                                        <input class="form-check-input" type="radio" asp-for="Gender" value="2" id="other" required>
+                                        <label class="form-check-label" for="other">Other</label>
+                                    </div><br />
+                                    <span asp-validation-for="Gender" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="Email" class="control-label">Email</label>
+                                    <input asp-for="Email" class="form-control" required placeholder="Enter Email" />
+                                    <span asp-validation-for="Email" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="Phonenumber" class="control-label">Phone Number</label>
+                                    <input asp-for="Phonenumber" class="form-control" required placeholder="Enter Phonenumber" />
+                                    <span asp-validation-for="Phonenumber" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <label asp-for="Password" class="control-label">Password</label>
+                                    <input asp-for="Password" type="password" class="form-control" required placeholder="Enter Password" />
+                                    <span asp-validation-for="Password" class="text-danger"></span>
+                                </div>
+                                <div class="text-center text-lg-start mt-4 pt-2  d-flex flex-column align-items-center">
+                                    <button type="submit" class="signup-button btn btn-primary btn-lg">Sign Up</button>
+                                    <p class="small fw-bold mt-2 pt-1 mb-0">
+                                        Already have an account? <a asp-action="SignIn" class="text-danger">Sign In</a>
+                                    </p>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
